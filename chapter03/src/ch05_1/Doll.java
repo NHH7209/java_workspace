@@ -5,7 +5,7 @@ public class Doll extends DrawingMachine{
 	
 	public Doll(String name, int price) {
 		super(name, price);
-		origin = "중국";
+		origin = "중국산";
 	}
 	
 }
